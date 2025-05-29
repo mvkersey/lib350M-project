@@ -1,3 +1,10 @@
+---
+title: Data Managment plan
+layout: page
+permalink: /dmp.html
+---
+
+
 **Swords of the 1800s \- 19th Century Swords of the World**
 
 **Data Management Plan**
