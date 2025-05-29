@@ -1,7 +1,7 @@
 ---
 title: Data Managment plan
 layout: page
-permalink: /dmp.html
+permalink: /dmp1.html
 ---
 
 
